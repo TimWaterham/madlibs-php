@@ -1,0 +1,67 @@
+body{
+	background-image: url("../img/background.jpg");
+	background-size: cover;
+}
+
+/*--------------------------------------------------------------------*/
+
+main{
+	height: 900px;
+	width: 1000px;
+	margin: 0 auto;
+	background-color: none;
+}
+
+section{
+	width: 550px;
+	font-size: 18px;
+	height: 875px;
+	padding:15px;
+	border: 2px solid black;
+	background-color: aliceblue;
+	margin: 0 auto;
+}
+
+p {
+	font-family: arial;
+	color: black;
+	padding:10px;
+	font-size-adjust: 0.58;
+}
+
+input {
+
+	float: right;
+}
+
+/*--------------------------------------------------------------------*/
+
+button {
+	height: 80px;
+	width: 120px;
+	margin: 30 175px;
+	background-color: lightgrey;
+	border: 2px solid lightblue;
+
+}
+
+button:hover {
+	background-color: aliceblue;
+	color: darkgreen;
+}
+
+/*--------------------------------------------------------------------*/
+
+#section2{
+	width: 1200px;
+	font-size:28px;
+	height: 500px;
+	padding:15px;
+	border: 2px solid black;
+	background-color: aliceblue;
+	color: black;
+	margin: 0 auto;
+
+}
+
+/*--------------------------------------------------------------------*/
